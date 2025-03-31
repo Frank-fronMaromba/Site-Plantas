@@ -1,5 +1,6 @@
 # Site-Suplemento
  Compras-Online
+ 
  Olá, pessoal! Bem-vindos à documentação do nosso projeto de loja de plantas online, desenvolvido com a incrível biblioteca Flet! Aqui, vamos te guiar por todos os passos para entender, executar e até mesmo contribuir com este projeto.
 
 Sobre o Projeto Este projeto é uma aplicação web interativa que simula uma loja online de plantas. Com ele, você pode:
